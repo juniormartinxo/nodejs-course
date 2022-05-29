@@ -1,4 +1,4 @@
-# nodejs-course
+# Curso de NodeJs
 
 ## Setup
 - Para instalar as dependências, rode `yarn`;
